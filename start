@@ -71,7 +71,7 @@
   </head>
   <body>
     <header>
-      <h1>CO² Ausstoß der Ländern</h1>
+      <h1>CO² Ausstoß der Länder</h1>
       <img src="logo.png" alt="Logo" class="logo">
       <div class="navigation">
     	  <a class="active" href="start.html">Start</a>
